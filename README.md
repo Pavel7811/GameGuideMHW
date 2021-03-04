@@ -107,3 +107,6 @@
 3. Одна броня имеет множество слотов;    
 4. Одна броня имеет один сет брони. 
 
+
+# ER Диаграмма: 
+![ER Диаграмма Броня](https://github.com/Pavel7811/GameGuideMHW/blob/main/ER%20Diagram%20Armors.png)
