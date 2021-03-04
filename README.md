@@ -109,4 +109,4 @@
 
 
 # ER Диаграмма: 
-![ER Диаграмма Броня](https://github.com/Pavel7811/GameGuideMHW/blob/main/ER%20Diagram%20Armors.png)
+![ER Диаграмма Броня](https://github.com/Pavel7811/GameGuideMHW/blob/main/ER%20Diagram%20Armor.png)
