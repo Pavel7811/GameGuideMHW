@@ -59,7 +59,7 @@
 4. Множество повреждаемых частей повреждаются множеством типов урона.  
 
 # ER Диаграмма:  
-![ER Диаграмма Монстры](https://github.com/Pavel7811/GameGuideMHW/blob/main/ER%20Diagram%20Monsters.png)  
+![ER Диаграмма Монстры](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/ER%20Diagram%20Monsters.png)  
 
 Вторая БД описывает характеристики брони.
 
@@ -109,4 +109,4 @@
 
 
 # ER Диаграмма: 
-![ER Диаграмма Броня](https://github.com/Pavel7811/GameGuideMHW/blob/main/ER%20Diagram%20Armor.png)
+![ER Диаграмма Броня](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/ER%20Diagram%20Armor.png)
