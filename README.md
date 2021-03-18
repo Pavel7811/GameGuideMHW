@@ -12,7 +12,7 @@
 1. Добавить нового монстра;
 2. Удалить монстра;
 3. Добавить новую броню;
-4. Удалить броню.
+4. Удалить броню.  
 **Справочные (оперативные запросы)**
 1. Показать монстров, уязвимых к огню.
 2. Показать монстров, обитающих в лесу.
@@ -111,5 +111,5 @@
 # ER Диаграмма: 
 ![ER Диаграмма Броня](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/ER%20Diagram%20Armor.png)
 
-**UML Диаграмма**
+**UML Диаграмма**    
 ![UML Diagramm](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/UML%20Diagram.png)
