@@ -121,7 +121,7 @@
 
 **Макеты приложений**  
 ![Макет приложения администратора](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/tables.png)  
-![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/monstrs.png)  
+(https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/monstrs.png)  
 ![Пользовательское приложение](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD.png)  
 
 **Выбор используемых СУБД:**  
