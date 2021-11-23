@@ -119,6 +119,11 @@
 
 # Лабораторная работа №2. Реализация реляционных БД.  
 
+**Макеты приложений**  
+![Макет приложения администратора](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/tables.png)  
+![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/monstrs.png)  
+![Пользовательское приложение](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/monstrs.png)  
+
 **Выбор используемых СУБД:**  
 1. SQLite;  
 2. MongoDB (NoSQL);  
