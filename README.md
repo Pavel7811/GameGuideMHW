@@ -150,17 +150,17 @@
 Скриншоты:  
 
 Работа с реляционной базой монстров:  
-Интерфейс:
+Интерфейс:  
 ![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%20%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.PNG)  
 
 Работа с запросами:  
 Просмотр:  
-![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2.PNG)
+![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2.PNG)  
 
 Добавление:    
-![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0.PNG)
+![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0.PNG)  
 
-Подсчет монтров с типом:  
+Подсчет монстров с типом:  
 ![](https://github.com/Pavel7811/GameGuideMHW/blob/main/Images/%D0%BF%D0%BE%D0%B4%D1%81%D1%87%D0%B5%D1%82%20%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2%20%D1%81%20%D1%82%D0%B8%D0%BF%D0%BE%D0%BC.PNG)  
 
 Удаление монстров:  
