@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PavelSSD\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PavelSSD\\.nuget\\packages"
+    ]
+  }
+}
